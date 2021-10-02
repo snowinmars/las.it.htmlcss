@@ -1,3 +1,11 @@
-body {
-  color: red;
+.animal {
+  color: white;
+  background-color: black;
+  border: 7px solid red;
+  padding: 20px;
+  margin: 1em;
+}
+
+.animal:hover {
+  color: green;
 }
